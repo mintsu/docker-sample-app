@@ -1,6 +1,6 @@
 [
     {
         "name": "mintsu-sample-app",
-        "imageUri": "docker.io/mintsu123/sample-docker-app:0.0.1"
+        "imageUri": "docker.io/mintsu123/sample-docker-app:0.0.2
     }
 ]
